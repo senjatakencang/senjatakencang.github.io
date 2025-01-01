@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://senjatakencang.github.io/sitemap.xml
